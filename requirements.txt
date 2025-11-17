@@ -1,0 +1,11 @@
+# Core Data Handling and Analysis
+pandas
+scikit-learn
+numpy 
+
+# Visualization
+matplotlib
+seaborn
+
+# Web Application Framework
+streamlit
