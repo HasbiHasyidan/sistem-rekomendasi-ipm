@@ -1,8 +1,5 @@
 # Sistem-Rekomendasi-Prioritas-Pembangunan-Daerah-Berbasis-IPM
 Rekomendasi sistem untuk prioritas pembangunan daerah di Indonesia berbasis Indeks Pembangunan Manusia (IPM)
-
-# Sistem Rekomendasi Prioritas Pembangunan Daerah Berbasis IPM
-
 Proyek ini adalah sebuah **Decision Support System (Sistem Pendukung Keputusan)** yang dirancang untuk membantu pemerintah daerah dalam merumuskan prioritas pembangunan yang tepat sasaran.
 Sistem ini menganalisis dataset **Indeks Pembangunan Manusia (IPM)** dari 514 Kabupaten/Kota di Indonesia. Dengan menggabungkan data numerik dan kategorikal, sistem ini tidak hanya menampilkan peringkat, tetapi juga menggali **insight mendalam** melalui analisis kesenjangan (*Gap Analysis*) dan pengelompokan wilayah (*Clustering*).
 
