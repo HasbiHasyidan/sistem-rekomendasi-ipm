@@ -92,7 +92,7 @@ rekom_dict = {
 }
 
 # Tab layout
-tab1, tab2 = st.tabs(["📍 Detail Kota", "📈 Dashboard Provinsi"])
+tab1, tab2 = st.tabs(["Detail Kota", " Dashboard Provinsi"])
 
 with tab1:
     st.subheader(f"Detail Kota: {kota}")
@@ -124,7 +124,7 @@ with tab2:
     avg_ipm = filtered['Jumlah IPM'].mean()
     st.metric(label="IPM Rata-rata Provinsi", value=f"{avg_ipm:.2f}")
 
-    st.markdown("## 📌 Rekomendasi Prioritas Pembangunan di Provinsi Ini")
+    st.markdown("##  Rekomendasi Prioritas Pembangunan di Provinsi Ini")
     col1, col2 = st.columns(2)
 
     with col1:
